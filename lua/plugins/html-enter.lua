@@ -7,6 +7,7 @@ return {
         local tag_filetypes = {
           html = true,
           xml = true,
+          typescript = true,
           javascriptreact = true,
           typescriptreact = true,
           vue = true,
