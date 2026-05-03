@@ -4,6 +4,7 @@ return {
     event = "BufReadPre",
     opts = {
       render = "virtual",
+      enable_named_colors = false,
     },
   },
 }
